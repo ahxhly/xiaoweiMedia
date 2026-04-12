@@ -2,8 +2,8 @@
 <img width="1920" height="894" alt="image" src="https://github.com/user-attachments/assets/54e9b831-2be8-4ac8-b090-ee60557bfea3" />
 
 
-Go 实现的多合一 DongguaTV 代理
-结合 https://github.com/EdNovas/dongguaTV 这个项目使用
+Go 采用多合一 DongguaTV改变，加入影视源，去掉复杂的分类。也可以自己添加影视源。
+
 
 # 使用
 在DongguaTV实例的环境变量中设置 TMDB_PROXY_URL 和 CORS_PROXY_URL 指向部署的实例即可。
