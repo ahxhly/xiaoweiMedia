@@ -3,6 +3,6 @@
 
 1改端口 改server文件  const PORT = 3007
 2改网站标和版权说明public文件夹index文件改网站标题
-3改密码 server文件const ADMIN_PASSWORD = "612422Ly"; 
+3改密码 server文件const ADMIN_PASSWORD = "123456"; 
 4此文件以内置影视源
 
